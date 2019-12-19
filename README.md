@@ -4,9 +4,10 @@ While we already have many references in English, I would like to write some use
 
 Reference: Linear Algebra Done Right 3rd Edition, Introduction to Linear Algebra 5th Edition.
 
-<b>See folders for pdf<b>.
+**See folders for pdf**.
 
 Two chapters are updated now and they are all in chinese.
 
 Enjoy!
+
 Frank
